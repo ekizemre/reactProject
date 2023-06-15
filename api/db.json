@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "categoryId": 1,
+      "productName": "Ürün1",
+      "quantityPerUnit": 1,
+        "unitPrice":13,
+        "unitInStock":32
+    },
+    {
+      "categoryId": 2,
+      "productName": "Ürün 2",
+      "quantityPerUnit": 1,
+        "unitPrice":13,
+        "unitInStock":32
+    },
+    {
+      "categoryId": 3,
+      "productName": "Ürün 3",
+      "quantityPerUnit": 1,
+        "unitPrice":13,
+        "unitInStock":32
+    },
+   {
+      "categoryId": 4,
+      "productName": "Ürün 4",
+      "quantityPerUnit": 1,
+        "unitPrice":13,
+        "unitInStock":32
+    },
+    {
+      "categorytId": 5,
+      "productName": "Ürün 5",
+      "quantityPerUnit": 1,
+        "unitPrice":13,
+        "unitInStock":32
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "Kategori 1"
+    },
+    {
+      "id": 2,
+      "categoryName": "Kategori 2"
+    },
+    {
+      "id": 3,
+      "categoryName": "Kategori 3"
+      
+    }
+  ]
+}
